@@ -1,0 +1,3 @@
+Hypothesis Function: h(x) = 7.0016x + 2.8443
+Target Function: h(x) = 7x + 2
+Model handled test set with 93.4273% accuracy.
